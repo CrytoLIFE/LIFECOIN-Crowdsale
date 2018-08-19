@@ -1,2 +1,2 @@
 # LIFECOIN-Crowdsale
-LIFECOIN Crowd Sale code
+Crowd Sale code for LIFECOIN
